@@ -1,0 +1,50 @@
+///$tab Fact_FlujosProgramados
+Flujos_Programados:
+LOAD
+    %KEY_BLOQUE_FUENTE_VERSION,
+//     Fecha_Hora,
+//     Fecha,
+//     MesAño,
+//     AñoMesNum,
+//     Mes,
+//     Año,
+//     Dia,
+//     Hora,
+//     Semana,
+    Linea,
+    barra_a,
+    barra_b,
+    flujo_pot,
+    units,
+    fuente,
+    intervalo,
+    fecha_version,
+    numero_version,
+    bloque,
+    hidro
+FROM [lib://STG/PLATAFORMA PROGRAMACION/STG_PRG_FLUJOS.qvd]
+(qvd);
+
+
+
+// LOAD
+//     %KEY_BLOQUE_FUENTE_VERSION,
+//     Fecha_Hora,
+//     Fecha,
+//     MesAño,
+//     Mes,
+//     Año,
+//     Dia,
+//     Hora,
+//     Semana,
+//     Linea,
+//     barra_a,
+//     barra_b,
+//     flujo_pot,
+//     units,
+//     fuente,
+//     intervalo,
+//     fecha_version,
+//     numero_version
+// FROM [lib://STG/PLATAFORMA PROGRAMACION/STG_PRG_FLUJOS.qvd]
+// (qvd);

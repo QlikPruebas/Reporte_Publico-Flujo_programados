@@ -1,0 +1,24 @@
+{
+  "qInfo": {
+    "qId": "PrakkL",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "Fecha"
+    ],
+    "qFieldLabels": [
+      "Fecha"
+    ],
+    "title": "Fecha",
+    "coloring": {
+      "changeHash": "0.5366003839202649"
+    }
+  },
+  "qMetaDef": {
+    "title": "Fecha",
+    "description": "",
+    "tags": []
+  }
+}

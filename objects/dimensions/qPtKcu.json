@@ -1,0 +1,24 @@
+{
+  "qInfo": {
+    "qId": "qPtKcu",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "N",
+    "qFieldDefs": [
+      "fuente"
+    ],
+    "qFieldLabels": [
+      "Fuente"
+    ],
+    "title": "Fuente",
+    "coloring": {
+      "changeHash": "0.42214294988664425"
+    }
+  },
+  "qMetaDef": {
+    "title": "Fuente",
+    "description": "",
+    "tags": []
+  }
+}
